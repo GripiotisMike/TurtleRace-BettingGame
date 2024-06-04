@@ -1,2 +1,4 @@
-# TurtleRace-BettingGame-
+# TurtleRace Betting Game
 It is a fun race betting game of Turtles.
+
+- In this Project I learned how to have multiple instances of an Object, Higher Order Functions and States.
